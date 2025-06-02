@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "chat": "चैट",
+    "forms": "फॉर्म",
+    "logout": "लॉग आउट",
+    "login": "लॉग इन"
+  },
+  "auth": {
+    "title": "साइन इन / साइन अप",
+    "subtitle": "जारी रखने के लिए अपना ईमेल या फोन नंबर का उपयोग करें",
+    "verifyTitle": "सत्यापन कोड दर्ज करें",
+    "verifySubtitle": "हमने आपके {{method}} पर एक सत्यापन कोड भेजा है",
+    "email": "ईमेल",
+    "phone": "फोन",
+    "continue": "जारी रखें",
+    "verify": "सत्यापित करें",
+    "back": "वापस",
+    "resend": "कोड पुनः भेजें",
+    "emailPlaceholder": "you@example.com",
+    "phonePlaceholder": "+91 (555) 000-0000",
+    "otpPlaceholder": "6-अंकों का कोड दर्ज करें"
+  },
+  "chat": {
+    "title": "CiviAI से चैट करें",
+    "clearChat": "चैट साफ़ करें",
+    "welcomeTitle": "CiviAI में आपका स्वागत है",
+    "welcomeSubtitle": "नागरिक सेवाओं, सामुदायिक संसाधनों, या सरकारी कार्यक्रमों के बारे में प्रश्न पूछें।",
+    "welcomePrivacy": "आपका चैट इतिहास निजी है और सुरक्षित रूप से संग्रहित है।",
+    "messagePlaceholder": "अपना संदेश यहाँ टाइप करें...",
+    "send": "संदेश भेजें",
+    "startListening": "वॉइस इनपुट शुरू करें",
+    "stopListening": "वॉइस इनपुट बंद करें",
+    "browserNotSupported": "आपके ब्राउज़र में वॉइस इनपुट समर्थित नहीं है"
+  },
+  "forms": {
+    "title": "फॉर्म और आवेदन",
+    "createForm": "फॉर्म बनाएं",
+    "noForms": "अभी तक कोई फॉर्म नहीं",
+    "noFormsSubtitle": "शुरू करने के लिए अपना पहला फॉर्म बनाएं",
+    "field": "फ़ील्ड",
+    "fields": "फ़ील्ड्स",
+    "createdOn": "बनाया गया"
+  }
+}

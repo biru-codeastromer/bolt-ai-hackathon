@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "chat": "Chat",
+    "forms": "Forms",
+    "logout": "Log Out",
+    "login": "Log In"
+  },
+  "auth": {
+    "title": "Sign In / Sign Up",
+    "subtitle": "Use your email or phone number to continue",
+    "verifyTitle": "Enter Verification Code",
+    "verifySubtitle": "We've sent a verification code to your {{method}}",
+    "email": "Email",
+    "phone": "Phone",
+    "continue": "Continue",
+    "verify": "Verify",
+    "back": "Back",
+    "resend": "Resend code",
+    "emailPlaceholder": "you@example.com",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "otpPlaceholder": "Enter 6-digit code"
+  },
+  "chat": {
+    "title": "Chat with CiviAI",
+    "clearChat": "Clear Chat",
+    "welcomeTitle": "Welcome to CiviAI",
+    "welcomeSubtitle": "Ask questions about civic services, community resources, or government programs.",
+    "welcomePrivacy": "Your conversation history is private and stored securely.",
+    "messagePlaceholder": "Type your message here...",
+    "send": "Send message",
+    "startListening": "Start voice input",
+    "stopListening": "Stop voice input",
+    "browserNotSupported": "Voice input is not supported in your browser"
+  },
+  "forms": {
+    "title": "Forms & Applications",
+    "createForm": "Create Form",
+    "noForms": "No forms yet",
+    "noFormsSubtitle": "Create your first form to get started",
+    "field": "field",
+    "fields": "fields",
+    "createdOn": "Created on"
+  }
+}
